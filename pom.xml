@@ -22,8 +22,10 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <modules>
-  	
+  <modules>  	
   	<module>skiRental-domain</module>
+  	<module>skiRental-Infrastructure</module>
+  	<module>skiRental-application</module>
+  	<module>skiRental-exposition</module>
   </modules>
 </project>
